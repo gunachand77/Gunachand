@@ -1,15 +1,15 @@
 # Gunachand
-🚀 Aspiring Cloud &amp; DevOps Engineer | Learning AWS, DevOps tools, and Python | Passionate about Cloud Technologies and Automation.
+🚀 DevOps Engineer | Learning AWS, DevOps tools, and Python | Passionate about Cloud Technologies and Automation.
 
 # 👋 Hi, I'm Gunachand
 
-🚀 Aspiring **AWS & DevOps Engineer** | 🌩️ Cloud Enthusiast | 🐍 Python Learner  
+🚀 Aspiring **AWS,GCP & DevOps Engineer** | 🌩️ Cloud Enthusiast | 🐍 Python Learner  
 
 ### 🌟 About Me
-- 🎓 M.Sc. Computer Science student (2023–2025)  
+- 🎓 M.Sc. Computer Science student (2022–2024)  
 - ☁️ Learning **AWS Cloud, DevOps tools, and Automation**  
 - 💻 Interested in **Cloud Support, Infrastructure, and Deployment**  
-- 📚 Currently practicing **Git, Linux, Docker, Jenkins, Terraform**  
+- 📚 Currently  **Git, Linux, Docker, Jenkins, Terraform**  
 
 ---
 
@@ -32,5 +32,5 @@
  
 
 
-⭐ *Open to Internship & Entry-level opportunities in Cloud/DevOps.*
+
 
